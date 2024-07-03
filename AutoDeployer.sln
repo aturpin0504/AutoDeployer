@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDeployer", "AutoDeployer\AutoDeployer.csproj", "{468B7FF9-1260-467F-B0F8-FE1F202AFCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468B7FF9-1260-467F-B0F8-FE1F202AFCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468B7FF9-1260-467F-B0F8-FE1F202AFCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468B7FF9-1260-467F-B0F8-FE1F202AFCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468B7FF9-1260-467F-B0F8-FE1F202AFCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66BE050E-D247-4216-8840-3367975FD81A}
+	EndGlobalSection
+EndGlobal
